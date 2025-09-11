@@ -16,7 +16,6 @@ build/*.txt
 web-bundles/
 
 # Environment variables
-.env
 
 # System files
 .DS_Store
@@ -46,3 +45,4 @@ test-project-install/*
 sample-project/*
 flattened-codebase.xml
 *.stats.md
+config.bat
